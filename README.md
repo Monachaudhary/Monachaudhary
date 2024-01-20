@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src ="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monachaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="monachaudhary" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Monachaudhary/](https://github.com/Monachaudhary/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Monachaudhary/)
 
 - 📫 How to reach me **manuchaudhary991@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F5OHWDygFAXXonTm0ydeb_iOSxEfeLgz/view?usp=sharing](https://drive.google.com/file/d/1F5OHWDygFAXXonTm0ydeb_iOSxEfeLgz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F5OHWDygFAXXonTm0ydeb_iOSxEfeLgz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
